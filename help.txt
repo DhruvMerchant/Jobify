@@ -1,0 +1,2 @@
+Mongoose is object data modelling library 
+more starighfwd and elegant way of interacting
